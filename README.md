@@ -26,27 +26,21 @@
 **Code Duels**  
 Senior Software Capstone Project – Team of 3 | Multiplayer competitive coding web application
 
-- Designed real-time competitive gameplay mechanics including scoring logic, challenge delivery, and multiplayer synchronization.
-- Developed core gameplay systems including dynamic problem generation and delivery.
-- Built backend infrastructure using Python (Flask) and integrated with a React + TypeScript frontend for smooth player interaction.
-- Applied game design principles to balance challenge difficulty, player progression, and competitive fairness.
-- Focused on responsive gameplay and intuitive UX to support competitive engagement and replayability.
+[<img align="left" width="28" height="28" alt="Code Duels | Itch" src="https://github.com/user-attachments/assets/52a1560f-bec6-431c-a9d6-ccb2e89a5d88">Playable Demo](https://kimariana.itch.io/code-duels)
 
 **Critical Density**  
 Senior Game Production Capstone Project – Team of 9 | 2.5D narrative-driven exploration/resource management game with RPG elements
 
-- Developed core gameplay mechanics including hook ability, barrier activation, and resource collection systems.
-- Integrated inventory and quest systems with resource collection mechanics to support item-based objectives.
-- Implemented branching dialogue and narrative sequences using the Ink scripting language.
-- Collaborated with designers, artists, and writers to align gameplay features with story pacing and world-building.
-- Conducted regular playtesting sessions and iterated on player feedback to refine mechanics and resolve bugs.
+[<img width="28" height="28" alt="Minigame System Repo" src="https://github.com/user-attachments/assets/d7b7aeef-fe67-43d7-bdfc-c9c91d61b046"> - Minigame System Repository](https://github.com/kimariana/minigame-system)
+
+[<img align="left" width="28" height="28" alt="Recipe for Disaster | Itch" src="https://github.com/user-attachments/assets/52a1560f-bec6-431c-a9d6-ccb2e89a5d88">Playable Demo](https://csgutulsa.itch.io/critical-density)
 
 **Recipe for Disaster**  
 Team-Based Project – Team of 4 | 3D action-adventure prototype
 
-- Designed and implemented a cave-themed level with maze navigation, environmental puzzles, and combat encounters.
-- Developed item collection and gating mechanics to support player progression and exploration.
-- Programmed global game state logic and portal-based level transitions to manage gameplay flow.
+[<img width="28" height="28" alt="Minigame System Repo" src="https://github.com/user-attachments/assets/d7b7aeef-fe67-43d7-bdfc-c9c91d61b046"> - Ice Mountain Level Repository](https://github.com/kimariana/ice-mountain-level)
+
+[<img align="left" width="28" height="28" alt="Recipe for Disaster | Itch" src="https://github.com/user-attachments/assets/52a1560f-bec6-431c-a9d6-ccb2e89a5d88">Playable Demo](https://kimariana.itch.io/recipe-for-disaster)
 
 ---
 

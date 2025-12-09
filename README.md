@@ -4,6 +4,7 @@
 <h3 align="center">Gameplay Programmer</h3>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Java-0066CC?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
@@ -13,8 +14,11 @@
 ### 👋 About Me
 - Bachelor of Science in **Computer Science** with a minor in **Mathematics** and **Cyber Security** from the **University of Tulsa**  
 - Bachelor of Science in **Computer Simulation and Gaming** from the **University of Tulsa**  
+- Aspiring gameplay programmer seeking a role that leverages strong problem-solving skills, creativity, and technical proficiency to build engaging game systems
+- Driven to become a versatile generalist who creates meaningful, immersive player experiences through thoughtful mechanics and design
 
 ### ⚡ Certifications
+- **Unity Certified Associate**: Programmer
 - **Unity Certified Associate**: Game Developer
 
 ### 🔭 What You'll Find
@@ -26,19 +30,21 @@
 **Code Duels**  
 Senior Software Capstone Project – Team of 3 | Multiplayer competitive coding web application
 
+[<img width="28" height="28" alt="Code Duels Repo" src="https://github.com/user-attachments/assets/d7b7aeef-fe67-43d7-bdfc-c9c91d61b046">&emsp;&nbsp;Code Duels Repository](https://github.com/kimariana/code-duels)
+
 [<img align="left" width="28" height="28" alt="Code Duels | Itch" src="https://github.com/user-attachments/assets/52a1560f-bec6-431c-a9d6-ccb2e89a5d88">Playable Demo](https://kimariana.itch.io/code-duels)
 
 **Critical Density**  
 Senior Game Production Capstone Project – Team of 9 | 2.5D narrative-driven exploration/resource management game with RPG elements
 
-[<img width="28" height="28" alt="Minigame System Repo" src="https://github.com/user-attachments/assets/d7b7aeef-fe67-43d7-bdfc-c9c91d61b046"> - Minigame System Repository](https://github.com/kimariana/minigame-system)
+[<img width="28" height="28" alt="Minigame System Repo" src="https://github.com/user-attachments/assets/d7b7aeef-fe67-43d7-bdfc-c9c91d61b046">&emsp;&nbsp;Minigame System Repository](https://github.com/kimariana/minigame-system)
 
 [<img align="left" width="28" height="28" alt="Recipe for Disaster | Itch" src="https://github.com/user-attachments/assets/52a1560f-bec6-431c-a9d6-ccb2e89a5d88">Playable Demo](https://csgutulsa.itch.io/critical-density)
 
 **Recipe for Disaster**  
 Team-Based Project – Team of 4 | 3D action-adventure prototype
 
-[<img width="28" height="28" alt="Minigame System Repo" src="https://github.com/user-attachments/assets/d7b7aeef-fe67-43d7-bdfc-c9c91d61b046"> - Ice Mountain Level Repository](https://github.com/kimariana/ice-mountain-level)
+[<img width="28" height="28" alt="Minigame System Repo" src="https://github.com/user-attachments/assets/d7b7aeef-fe67-43d7-bdfc-c9c91d61b046">&emsp;&nbsp;Ice Mountain Level Repository](https://github.com/kimariana/ice-mountain-level)
 
 [<img align="left" width="28" height="28" alt="Recipe for Disaster | Itch" src="https://github.com/user-attachments/assets/52a1560f-bec6-431c-a9d6-ccb2e89a5d88">Playable Demo](https://kimariana.itch.io/recipe-for-disaster)
 
